@@ -1,0 +1,1 @@
+{	"ip":"Atta_Patta.aternos.me",	"port": "55655",	"name": "afkbot"}
